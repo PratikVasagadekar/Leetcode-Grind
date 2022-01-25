@@ -1,8 +1,4 @@
-# LC-04. Median of Two Sorted Arrays
-
-Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
-
-## Solution <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+## LC-04. Median of Two Sorted Arrays <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 ```python
 class Solution:
